@@ -1,0 +1,18 @@
+@keyframes Aarush{
+    0% {background-color: blue;}
+    5% {background-color: brown;}
+    10% {background-color: beige;}
+    15% {background-color: azure;}
+    20% {background-color: antiquewhite;}
+    25% {background-color: aquamarine;}
+    30% {background-color: brown;}
+    35% {background-color: blanchedalmond;}
+    40% {background-color: blueviolet;}
+    45% {background-color: beige;}
+    50% {background-color: aqua;}
+    100% {background-color: green;}
+}
+body{
+    animation-name: Aarush;
+    animation-duration: 25s;
+}
